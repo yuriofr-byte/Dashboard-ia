@@ -1,0 +1,19 @@
+mes,produto,vendas,lucro
+Janeiro,Produto A,150,3000
+Janeiro,Produto B,200,4500
+Janeiro,Produto C,100,2000
+Fevereiro,Produto A,180,3600
+Fevereiro,Produto B,220,5000
+Fevereiro,Produto C,130,2600
+Março,Produto A,200,4000
+Março,Produto B,250,5500
+Março,Produto C,160,3200
+Abril,Produto A,170,3400
+Abril,Produto B,190,4200
+Abril,Produto C,140,2800
+Maio,Produto A,220,4400
+Maio,Produto B,270,6000
+Maio,Produto C,180,3600
+Junho,Produto A,250,5000
+Junho,Produto B,300,6500
+Junho,Produto C,200,4000
