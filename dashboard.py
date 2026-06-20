@@ -87,7 +87,10 @@ Responde de forma clara e objetiva em portugues.
 
     except Exception as e:
         print(f"Erro na IA: {e}")
-        print(f"Resposta: {response.json()}")
+        try:
+            print(f"Resposta: {response.json()}")
+        except:
+            pass
 
 
 if __name__ == "__main__":
